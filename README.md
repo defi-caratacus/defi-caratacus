@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @defi-caratacus
+- 👀 I’m interested in distributed ledger techcnologies.
+- 🌱 I’m currently learning Solidity, Mokoto and playing with the substrate stack.
+- 💞️ I’m looking to collaborate on interesting projects!
+- 📫 How to reach me ... leaving this as an exercise to the reader.
